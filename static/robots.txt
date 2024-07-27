@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://ephemeral-douhua-0cd70b.netlify.app/sitemap-index.xml
